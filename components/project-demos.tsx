@@ -71,10 +71,7 @@ export function LedgerDemo() {
 
 type Student = { id: string; display_name: string; class_name: string; subject: string; score: number; term: string };
 type Summary = { learner_count: number; average_score: number; grade_distribution: Record<string, number> };
-const apiBase = (
-  process.env.NEXT_PUBLIC_RESULTS_API_URL ??
-  (process.env.NODE_ENV === "development" ? "http://localhost:8000" : "")
-).replace(/\/$/, "");
+const apiBase = "/api";
 
 export function ResultsExplorerDemo() {
   const [students, setStudents] = useState<Student[]>([]);
@@ -89,7 +86,7 @@ export function ResultsExplorerDemo() {
     async function load() { setLoading(true); setError("");
       try {
         const params = new URLSearchParams(); if (className !== "All classes") params.set("class_name", className); if (term !== "All terms") params.set("term", term); if (query.trim()) params.set("search", query.trim());
-        const [recordsResponse, summaryResponse] = await Promise.all([fetch(`${apiBase}/api/results?${params}`, { signal: controller.signal }), fetch(`${apiBase}/api/results/summary?${params}`, { signal: controller.signal })]);
+        const [recordsResponse, summaryResponse] = await Promise.all([fetch(`${apiBase}/results?${params}`, { signal: controller.signal }), fetch(`${apiBase}/results/summary?${params}`, { signal: controller.signal })]);
         if (!recordsResponse.ok || !summaryResponse.ok) throw new Error("The results service is not available. Start the FastAPI service and try again.");
         const records = await recordsResponse.json() as { results: Student[] };
         const stats = await summaryResponse.json() as Summary;
