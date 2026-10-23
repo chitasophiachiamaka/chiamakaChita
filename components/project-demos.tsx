@@ -71,7 +71,10 @@ export function LedgerDemo() {
 
 type Student = { id: string; display_name: string; class_name: string; subject: string; score: number; term: string };
 type Summary = { learner_count: number; average_score: number; grade_distribution: Record<string, number> };
-const apiBase = (process.env.NEXT_PUBLIC_RESULTS_API_URL || "http://localhost:8000").replace(/\/$/, "");
+const apiBase = (
+  process.env.NEXT_PUBLIC_RESULTS_API_URL ??
+  (process.env.NODE_ENV === "development" ? "http://localhost:8000" : "")
+).replace(/\/$/, "");
 
 export function ResultsExplorerDemo() {
   const [students, setStudents] = useState<Student[]>([]);
