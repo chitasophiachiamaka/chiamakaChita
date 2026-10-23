@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 360" fill="none">
+  <rect width="920" height="360" rx="18" fill="#F8FAF7"/>
+  <rect x="1" y="1" width="918" height="358" rx="17" stroke="#DCE4DF" stroke-width="2"/>
+  <rect x="1" y="1" width="918" height="62" rx="17" fill="#FFFFFF"/>
+  <path d="M1 62H919" stroke="#E6ECE8" stroke-width="2"/>
+  <circle cx="32" cy="32" r="12" fill="#DDECE5"/>
+  <path d="M26 33h12M32 27v12" stroke="#1D736A" stroke-width="2.5" stroke-linecap="round"/>
+  <text x="56" y="38" fill="#172C32" font-family="Arial, sans-serif" font-size="19" font-weight="700">Taskflow</text>
+  <rect x="744" y="18" width="148" height="28" rx="14" fill="#EAF2ED"/>
+  <circle cx="762" cy="32" r="4" fill="#1D736A"/>
+  <text x="774" y="36" fill="#477068" font-family="Arial, sans-serif" font-size="11" font-weight="700" letter-spacing="1">PORTFOLIO DEMO</text>
+  <text x="32" y="108" fill="#172C32" font-family="Georgia, serif" font-size="28">My task board</text>
+  <text x="32" y="132" fill="#71817E" font-family="Arial, sans-serif" font-size="13">Keep daily priorities organized and moving.</text>
+  <rect x="32" y="151" width="856" height="45" rx="7" fill="#FFFFFF" stroke="#D6DFD9" stroke-width="2"/>
+  <text x="50" y="179" fill="#87938F" font-family="Arial, sans-serif" font-size="13">What would you like to do?</text>
+  <rect x="746" y="157" width="130" height="33" rx="5" fill="#1D736A"/>
+  <text x="765" y="179" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="13" font-weight="700">Add task  +</text>
+  <rect x="32" y="215" width="48" height="26" rx="13" fill="#E3EFE8"/>
+  <text x="45" y="232" fill="#276C5C" font-family="Arial, sans-serif" font-size="11" font-weight="700">All</text>
+  <text x="97" y="232" fill="#71817E" font-family="Arial, sans-serif" font-size="11">To do</text>
+  <text x="155" y="232" fill="#71817E" font-family="Arial, sans-serif" font-size="11">Done</text>
+  <rect x="32" y="253" width="856" height="40" rx="5" fill="#FFFFFF" stroke="#E8EEEA" stroke-width="2"/>
+  <rect x="48" y="266" width="14" height="14" rx="3" stroke="#A9B8B0" stroke-width="2"/>
+  <text x="76" y="275" fill="#34494A" font-family="Arial, sans-serif" font-size="13">Plan a small feature</text>
+  <text x="826" y="276" fill="#71817E" font-family="Arial, sans-serif" font-size="11">Edit</text>
+  <rect x="32" y="301" width="856" height="40" rx="5" fill="#FFFFFF" stroke="#E8EEEA" stroke-width="2"/>
+  <rect x="48" y="314" width="14" height="14" rx="3" fill="#E3EFE8" stroke="#83AA99" stroke-width="2"/>
+  <path d="m51 321 3 3 6-7" stroke="#397368" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="76" y="323" fill="#929E99" font-family="Arial, sans-serif" font-size="13" text-decoration="line-through">Review what I learned</text>
+  <text x="826" y="324" fill="#71817E" font-family="Arial, sans-serif" font-size="11">Edit</text>
+</svg>

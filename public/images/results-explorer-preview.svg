@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 360" fill="none">
+  <rect width="920" height="360" rx="18" fill="#F8FAF7"/>
+  <rect x="1" y="1" width="918" height="358" rx="17" stroke="#DCE4DF" stroke-width="2"/>
+  <rect x="1" y="1" width="918" height="62" rx="17" fill="#FFFFFF"/>
+  <path d="M1 62H919" stroke="#E6ECE8" stroke-width="2"/>
+  <circle cx="32" cy="32" r="12" fill="#D9E7EC"/>
+  <path d="M26 26h12v12H26zM29 29h6M29 32h6M29 35h4" stroke="#527684" stroke-width="1.5" stroke-linejoin="round"/>
+  <text x="56" y="38" fill="#172C32" font-family="Arial, sans-serif" font-size="19" font-weight="700">Class results</text>
+  <rect x="744" y="18" width="148" height="28" rx="14" fill="#EAF2ED"/>
+  <circle cx="762" cy="32" r="4" fill="#527684"/>
+  <text x="774" y="36" fill="#527068" font-family="Arial, sans-serif" font-size="11" font-weight="700" letter-spacing="1">SYNTHETIC DATA</text>
+  <rect x="32" y="80" width="215" height="34" rx="5" fill="#FFFFFF" stroke="#D6DFD9" stroke-width="2"/>
+  <text x="47" y="102" fill="#536468" font-family="Arial, sans-serif" font-size="12">All classes</text>
+  <path d="m224 94 5 5 5-5" stroke="#71817E" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="260" y="80" width="215" height="34" rx="5" fill="#FFFFFF" stroke="#D6DFD9" stroke-width="2"/>
+  <text x="275" y="102" fill="#536468" font-family="Arial, sans-serif" font-size="12">All terms</text>
+  <path d="m447 94 5 5 5-5" stroke="#71817E" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="488" y="80" width="400" height="34" rx="5" fill="#FFFFFF" stroke="#D6DFD9" stroke-width="2"/>
+  <circle cx="506" cy="97" r="5" stroke="#87938F" stroke-width="1.5"/>
+  <path d="m510 101 4 4" stroke="#87938F" stroke-width="1.5" stroke-linecap="round"/>
+  <text x="523" y="102" fill="#87938F" font-family="Arial, sans-serif" font-size="12">Search demo records</text>
+  <rect x="32" y="128" width="266" height="53" rx="6" fill="#F1F6F2"/>
+  <text x="47" y="149" fill="#71817E" font-family="Arial, sans-serif" font-size="11">Learners</text>
+  <text x="47" y="171" fill="#172C32" font-family="Georgia, serif" font-size="20">12</text>
+  <rect x="327" y="128" width="266" height="53" rx="6" fill="#F1F6F2"/>
+  <text x="342" y="149" fill="#71817E" font-family="Arial, sans-serif" font-size="11">Average score</text>
+  <text x="342" y="171" fill="#172C32" font-family="Georgia, serif" font-size="20">69.7%</text>
+  <rect x="622" y="128" width="266" height="53" rx="6" fill="#F1F6F2"/>
+  <text x="637" y="149" fill="#71817E" font-family="Arial, sans-serif" font-size="11">Grade A</text>
+  <text x="637" y="171" fill="#172C32" font-family="Georgia, serif" font-size="20">18</text>
+  <rect x="32" y="195" width="856" height="28" rx="4" fill="#EDF2EE"/>
+  <text x="46" y="213" fill="#72827E" font-family="Arial, sans-serif" font-size="10" font-weight="700">LEARNER</text>
+  <text x="220" y="213" fill="#72827E" font-family="Arial, sans-serif" font-size="10" font-weight="700">CLASS</text>
+  <text x="315" y="213" fill="#72827E" font-family="Arial, sans-serif" font-size="10" font-weight="700">SUBJECT</text>
+  <text x="525" y="213" fill="#72827E" font-family="Arial, sans-serif" font-size="10" font-weight="700">TERM</text>
+  <text x="700" y="213" fill="#72827E" font-family="Arial, sans-serif" font-size="10" font-weight="700">SCORE</text>
+  <text x="805" y="213" fill="#72827E" font-family="Arial, sans-serif" font-size="10" font-weight="700">GRADE</text>
+  <path d="M32 252H888M32 281H888M32 310H888M32 339H888" stroke="#E8EEEA" stroke-width="2"/>
+  <text x="46" y="244" fill="#34494A" font-family="Arial, sans-serif" font-size="11">Demo Learner 01</text><text x="220" y="244" fill="#536468" font-family="Arial, sans-serif" font-size="11">SS1</text><text x="315" y="244" fill="#536468" font-family="Arial, sans-serif" font-size="11">Computer Studies</text><text x="525" y="244" fill="#536468" font-family="Arial, sans-serif" font-size="11">First term</text><text x="700" y="244" fill="#536468" font-family="Arial, sans-serif" font-size="11">84%</text>
+  <rect x="806" y="230" width="25" height="19" rx="9" fill="#E4F0E8"/><text x="815" y="244" fill="#2C705F" font-family="Arial, sans-serif" font-size="10" font-weight="700">A</text>
+  <text x="46" y="273" fill="#34494A" font-family="Arial, sans-serif" font-size="11">Demo Learner 02</text><text x="220" y="273" fill="#536468" font-family="Arial, sans-serif" font-size="11">SS1</text><text x="315" y="273" fill="#536468" font-family="Arial, sans-serif" font-size="11">Mathematics</text><text x="525" y="273" fill="#536468" font-family="Arial, sans-serif" font-size="11">First term</text><text x="700" y="273" fill="#536468" font-family="Arial, sans-serif" font-size="11">61%</text>
+  <rect x="806" y="259" width="25" height="19" rx="9" fill="#E4F0E8"/><text x="815" y="273" fill="#2C705F" font-family="Arial, sans-serif" font-size="10" font-weight="700">B</text>
+  <text x="46" y="302" fill="#34494A" font-family="Arial, sans-serif" font-size="11">Demo Learner 03</text><text x="220" y="302" fill="#536468" font-family="Arial, sans-serif" font-size="11">SS1</text><text x="315" y="302" fill="#536468" font-family="Arial, sans-serif" font-size="11">English</text><text x="525" y="302" fill="#536468" font-family="Arial, sans-serif" font-size="11">First term</text><text x="700" y="302" fill="#536468" font-family="Arial, sans-serif" font-size="11">77%</text>
+  <rect x="806" y="288" width="25" height="19" rx="9" fill="#E4F0E8"/><text x="815" y="302" fill="#2C705F" font-family="Arial, sans-serif" font-size="10" font-weight="700">A</text>
+</svg>

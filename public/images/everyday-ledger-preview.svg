@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 360" fill="none">
+  <rect width="920" height="360" rx="18" fill="#F8FAF7"/>
+  <rect x="1" y="1" width="918" height="358" rx="17" stroke="#DCE4DF" stroke-width="2"/>
+  <rect x="1" y="1" width="918" height="62" rx="17" fill="#FFFFFF"/>
+  <path d="M1 62H919" stroke="#E6ECE8" stroke-width="2"/>
+  <circle cx="32" cy="32" r="12" fill="#F2E1D0"/>
+  <path d="M26 32h12M32 26v12" stroke="#9C684D" stroke-width="2.5" stroke-linecap="round"/>
+  <text x="56" y="38" fill="#172C32" font-family="Arial, sans-serif" font-size="19" font-weight="700">Everyday Ledger</text>
+  <rect x="744" y="18" width="148" height="28" rx="14" fill="#F7F0EB"/>
+  <circle cx="762" cy="32" r="4" fill="#9C684D"/>
+  <text x="774" y="36" fill="#805F50" font-family="Arial, sans-serif" font-size="11" font-weight="700" letter-spacing="1">PORTFOLIO DEMO</text>
+  <text x="32" y="101" fill="#172C32" font-family="Georgia, serif" font-size="25">Monthly overview</text>
+  <rect x="32" y="118" width="266" height="66" rx="7" fill="#FFFFFF" stroke="#E2E8E3" stroke-width="2"/>
+  <text x="49" y="140" fill="#71817E" font-family="Arial, sans-serif" font-size="12">Income</text>
+  <text x="49" y="168" fill="#172C32" font-family="Georgia, serif" font-size="22">₦120,000</text>
+  <rect x="327" y="118" width="266" height="66" rx="7" fill="#F7F0EB" stroke="#E8D9CD" stroke-width="2"/>
+  <text x="344" y="140" fill="#80695D" font-family="Arial, sans-serif" font-size="12">Spending</text>
+  <text x="344" y="168" fill="#9B5D46" font-family="Georgia, serif" font-size="22">₦20,500</text>
+  <rect x="622" y="118" width="266" height="66" rx="7" fill="#FFFFFF" stroke="#E2E8E3" stroke-width="2"/>
+  <text x="639" y="140" fill="#71817E" font-family="Arial, sans-serif" font-size="12">Balance</text>
+  <text x="639" y="168" fill="#267969" font-family="Georgia, serif" font-size="22">₦99,500</text>
+  <text x="32" y="218" fill="#71817E" font-family="Arial, sans-serif" font-size="11" font-weight="700" letter-spacing="1">RECENT TRANSACTIONS</text>
+  <rect x="32" y="232" width="856" height="43" rx="5" fill="#FFFFFF" stroke="#E8EEEA" stroke-width="2"/>
+  <circle cx="54" cy="253" r="9" fill="#EAF2ED"/>
+  <path d="M50 253h8m-4-4v8" stroke="#267969" stroke-width="1.7" stroke-linecap="round"/>
+  <text x="75" y="250" fill="#34494A" font-family="Arial, sans-serif" font-size="12" font-weight="700">Sample income</text>
+  <text x="75" y="266" fill="#86938F" font-family="Arial, sans-serif" font-size="10">Income</text>
+  <text x="789" y="259" fill="#267969" font-family="Arial, sans-serif" font-size="13" font-weight="700">+₦120,000</text>
+  <rect x="32" y="282" width="856" height="43" rx="5" fill="#FFFFFF" stroke="#E8EEEA" stroke-width="2"/>
+  <circle cx="54" cy="303" r="9" fill="#F7F0EB"/>
+  <path d="M50 303h8" stroke="#9B5D46" stroke-width="1.7" stroke-linecap="round"/>
+  <text x="75" y="300" fill="#34494A" font-family="Arial, sans-serif" font-size="12" font-weight="700">Sample data plan</text>
+  <text x="75" y="316" fill="#86938F" font-family="Arial, sans-serif" font-size="10">Utilities</text>
+  <text x="799" y="309" fill="#9B5D46" font-family="Arial, sans-serif" font-size="13" font-weight="700">−₦8,000</text>
+</svg>
